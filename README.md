@@ -12,7 +12,7 @@ pytest
 ## Run Code
 
 ```
-python main.py [string]
+python encode.py [string]
 ```
 
 ## To fix
